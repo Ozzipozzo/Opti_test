@@ -1,4 +1,3 @@
-
 // exo = transform the array to get the first index as key
 const input = [  
     ["key1", 1, 2, 3, 4],

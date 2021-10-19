@@ -25,7 +25,6 @@ const input = [
     let tab = []
     let tab2 = []
 
-
     // check is the price is undefined or not
     x.forEach(e => {
         if(e.price) {
@@ -62,8 +61,8 @@ const input = [
                 console.log("Veuillez renseigner un tableau d'object");
         }
     });
-    
-    console.log(tab2)
+
+console.log(tab2)
    
 }
 
